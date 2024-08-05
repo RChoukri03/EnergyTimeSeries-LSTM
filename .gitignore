@@ -1,0 +1,5 @@
+data/*
+trainbureau
+trainhop.py
+trainmix.py
+*.ipynb

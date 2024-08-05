@@ -1,0 +1,23 @@
+hospital:
+  train_path: 'data/train/'
+  target_path: 'data/target/'
+  model_path: 'models/hospital'
+  dataset_name: 'hospital/'
+  batch_size: 12
+  epochs: 1200
+
+office:
+  train_path: 'data/train/'
+  target_path: 'data/target/'
+  model_path: 'models/office'
+  dataset_name: 'office/'
+  batch_size: 9
+  epochs: 2000
+
+mixed:
+  train_path: 'data/train/'
+  target_path: 'data/target/'
+  model_path: 'models/mixed'
+  dataset_name: 'mixed/'
+  batch_size: 21
+  epochs: 2000
